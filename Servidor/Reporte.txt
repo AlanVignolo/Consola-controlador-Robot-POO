@@ -1,0 +1,6 @@
+REPORTE ROBOT ABB IRB 460 
+Robot Conectado
+Cantidad de ordenes: 0
+Cantidad de ordenes pedidas: 0
+Inicio de Actividad
+Fecha: 2022-11-04 Hora: 01:12 
