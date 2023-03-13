@@ -1,5 +1,6 @@
 from datetime import datetime 
 
+
 class Archivar():
     def __init__(self):
         self.OrdenesCliente=0
